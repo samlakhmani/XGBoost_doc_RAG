@@ -1,4 +1,7 @@
 ## Explanation 
+
+This RAG project was built using Langchain
+
 This is a rag which doloads all any documentation online, given the link 
 
 Steps : 
